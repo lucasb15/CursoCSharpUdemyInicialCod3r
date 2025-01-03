@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace CursoCSharpUdemyInicial.Fundamentos
 {
     internal class Conversoes
